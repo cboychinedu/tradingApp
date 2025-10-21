@@ -1,0 +1,32 @@
+/* 1. Define the keyframes for the continuous, looping scroll effect */
+@keyframes seamlessScroll {
+    /* Start position: The container is at its home position (0 offset) */
+    0% {
+        transform: translateX(0);
+    }
+    /* End position: The container moves exactly half its total width (-50%), 
+        which is the width of the original content block. */
+    100% {
+        transform: translateX(-50%); 
+    }
+}
+
+/* 2. Create a utility class using the defined keyframes */
+.marquee-animation {
+    /* Apply the animation: 
+        name | duration (adjust for speed) | timing-function | iteration-count
+    */
+    animation: seamlessScroll 100s linear infinite; /* 15s for smooth, slow speed */
+    /* Ensure the animation is continuous with 'linear' and 'infinite' */
+}
+
+/* 2. Create a utility class using the defined keyframes */
+.scrolling-animation {
+    /* Apply the animation: 
+        name | duration (adjust for speed) | timing-function | iteration-count
+    */
+    animation: scrollLeft 100s linear infinite;
+    /* To prevent flickering or pauses, we ensure the timing is linear.
+        Duration (10s) determines speed; a higher number is slower.
+    */
+}
