@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('.static', filename='css/home.css')}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Welcome </title>
+</head>
+<body>
+    <!-- Adding the header -->
+    <header class="flex items-center justify-center mt-[10px] text-[20px]"> 
+        <h3 class="headerFont"> PARTNERS </h3>
+    </header>
+
+    <!-- Adding the navbar --> 
+    <div class="w-full h-[8em] mt-[10px] bg-[#093967] overflow-hidden relative">
+        <div class="marquee-animation absolute top-0 left-0 bg-[#093967] h-full w-[200%] flex items-center whitespace-nowrap text-white text-2xl font-bold">
+            <span class="flex items-center space-x-8 px-8">
+                <span>⭐ SEAMLESS SCROLL CONTENT 1</span>
+                <span>|</span>
+                <span>🔥 FEATURED PARTNER BRAND</span>
+                <span>|</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+                <span>🚀 NEW UPDATES AVAILABLE</span>
+            </span>
+        </div>
+    </div>
+
+    <!-- Adding javascript  -->
+    <script src="{{ url_for('.static', filename='js/home.js') }}"></script>
+</body>
+</html>
