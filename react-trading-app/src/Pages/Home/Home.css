@@ -1,0 +1,94 @@
+* {
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box;
+    font-family: "Comfortaa", sans-serif;
+}
+.headerFont {
+    font-weight: bolder;
+    font-size: 17px;
+}
+.connectWalletBtn {
+    width: 100%;
+}
+button {
+    --ro-modal-border-color: #9a9085;
+    --ro-modal-border-width: 3px;
+    width: 100%;
+}
+
+body {
+    background-color: white;
+}
+span {
+    font-size: 15px;
+}
+.firstSection {
+    margin: auto;
+    margin-top: 40px;
+    width: 80%;
+    height: 10em;
+}
+.header-text {
+    font-weight: bold; 
+    margin-bottom: 1px;
+}
+.dot {
+height: 9px;
+    background-color: #7c1adf;
+    width: 9px;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-right: 7px;
+}
+.sectionSectionInnerMain {
+    display: flex;
+}
+
+
+
+
+/* 1. Define the custom gradient */
+.text-gradient {
+    /* Define the actual gradient */
+    font-size: 17px;
+    background: -webkit-linear-gradient(left, pink, violet);
+    background-clip: text;
+    -webkit-background-clip: text;
+    /* Make the text transparent so the background gradient shows through */
+    -webkit-text-fill-color: transparent;
+}
+
+/* 1. Define the keyframes for the continuous, looping scroll effect */
+@keyframes seamlessScroll {
+    /* Start position: The container is at its home position (0 offset) */
+    0% {
+        transform: translateX(0);
+    }
+    /* End position: The container moves exactly half its total width (-50%), 
+        which is the width of the original content block. */
+    100% {
+        transform: translateX(-10%); 
+    }
+}
+
+
+/* 2. Create a utility class using the defined keyframes */
+.marquee-animation {
+    /* Apply the animation: 
+        name | duration (adjust for speed) | timing-function | iteration-count
+    */
+    animation: seamlessScroll 15s linear infinite; /* 15s for smooth, slow speed */
+    /* Ensure the animation is continuous with 'linear' and 'infinite' */
+}
+
+/* 2. Create a utility class using the defined keyframes */
+.scrolling-animation {
+    /* Apply the animation: 
+        name | duration (adjust for speed) | timing-function | iteration-count
+    */
+    animation: scrollLeft 15s linear infinite;
+    /* To prevent flickering or pauses, we ensure the timing is linear.
+        Duration (10s) determines speed; a higher number is slower.
+    */
+}

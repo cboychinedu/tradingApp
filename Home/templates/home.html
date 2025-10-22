@@ -9,6 +9,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('.static', filename='css/home.css')}}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+  <script src="https://unpkg.com/@walletconnect/web3-provider@1.8.0/dist/umd/index.min.js"></script>
+  <script src="https://unpkg.com/web3modal@1.9.10/dist/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.11.1/dist/ethers.min.js"></script>
+  <script src="https://unpkg.com/@web3modal/html@3.5.5/dist/index.js"></script>
+  <script src="https://unpkg.com/@walletconnect/ethereum-provider@2.10.6/dist/index.js"></script>
   <title>Welcome</title>
 </head>
 <body class="font-[Comfortaa]">
@@ -101,7 +107,10 @@
     <main class="mt-8 text-center bg-[#eaeaf0c2] p-[14px] rounded-[10px] text-white"> 
         <div> 
             <div> 
-                <button class="bg-[#0a3967] h-[40px] w-full rounded-[12px] text-[13px]" id="connectButton"> Connect Wallet </button>
+                <button 
+                    class="bg-[#0a3967] h-[40px] w-full rounded-[12px] text-[13px]" 
+                    id="connectButton"
+                > Connect Wallet </button>
             </div>
         </div>
     </main>

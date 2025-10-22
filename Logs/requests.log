@@ -3602,3 +3602,743 @@
 2025-10-22 09:57:10 - INFO - 172.20.10.2 - - [22/Oct/2025 09:57:10] "GET /static/js/home.js HTTP/1.1" 200 -
 2025-10-22 09:57:10 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
 2025-10-22 09:57:10 - INFO - 172.20.10.2 - - [22/Oct/2025 09:57:10] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "GET / HTTP/1.1" 200 -
+2025-10-22 10:53:05 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 10:53:05 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 10:53:05 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:05] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 10:53:06 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 10:53:06 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:06] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:14 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 10:53:14 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:14] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "GET / HTTP/1.1" 200 -
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 10:53:51 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 10:53:51 - INFO - 172.20.10.2 - - [22/Oct/2025 10:53:51] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:05:36 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:05:36 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:36] "GET / HTTP/1.1" 200 -
+2025-10-22 11:05:36 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:05:36 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:36] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:05:36 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:05:37 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:05:37 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:05:37 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:37] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:05:38 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:05:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:05:38] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:09:43 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:09:43 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:43] "GET / HTTP/1.1" 200 -
+2025-10-22 11:09:43 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:09:43 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:43] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:09:44 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:44] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:09:45 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:09:45 - INFO - 172.20.10.2 - - [22/Oct/2025 11:09:45] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "GET / HTTP/1.1" 200 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:11:23 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:11:23 - INFO - 172.20.10.2 - - [22/Oct/2025 11:11:23] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "GET / HTTP/1.1" 200 -
+2025-10-22 11:12:21 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:12:21 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:21] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 11:12:22 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:12:22 - INFO - 172.20.10.2 - - [22/Oct/2025 11:12:22] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "GET / HTTP/1.1" 200 -
+2025-10-22 11:14:15 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 11:14:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:15] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:14:16 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:14:16 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:16] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "GET / HTTP/1.1" 200 -
+2025-10-22 11:14:48 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:14:48 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:48] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 11:14:49 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:14:49 - INFO - 172.20.10.2 - - [22/Oct/2025 11:14:49] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "GET / HTTP/1.1" 200 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:28:32 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:28:32 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:32] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "GET / HTTP/1.1" 200 -
+2025-10-22 11:28:50 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:28:50 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:28:50 - INFO - 172.20.10.2 - - [22/Oct/2025 11:28:50] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "GET / HTTP/1.1" 200 -
+2025-10-22 11:29:15 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:29:15 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:15] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:29:16 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:29:16 - INFO - 172.20.10.2 - - [22/Oct/2025 11:29:16] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "GET / HTTP/1.1" 200 -
+2025-10-22 11:43:28 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:43:28 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:28] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:43:29 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:43:29 - INFO - 172.20.10.2 - - [22/Oct/2025 11:43:29] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "GET / HTTP/1.1" 200 -
+2025-10-22 11:45:38 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 11:45:38 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:38] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:45:39 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 11:45:39 - INFO - 172.20.10.2 - - [22/Oct/2025 11:45:39] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 11:45:58 - INFO - Request: GET / - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET / HTTP/1.1" 200 -
+2025-10-22 11:45:58 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET /static/images/coinmarketcap.svg HTTP/1.1" 200 -
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET /static/css/home.css HTTP/1.1" 200 -
+2025-10-22 11:45:58 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.1
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET /static/images/coingecko.svg HTTP/1.1" 200 -
+2025-10-22 11:45:58 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:58] "GET /static/images/folius.webp HTTP/1.1" 200 -
+2025-10-22 11:45:59 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.1
+2025-10-22 11:45:59 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.1
+2025-10-22 11:45:59 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:59] "GET /static/images/bybit.png HTTP/1.1" 200 -
+2025-10-22 11:45:59 - INFO - 172.20.10.1 - - [22/Oct/2025 11:45:59] "GET /static/images/binance.png HTTP/1.1" 200 -
+2025-10-22 11:46:00 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.1
+2025-10-22 11:46:00 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.1
+2025-10-22 11:46:00 - INFO - 172.20.10.1 - - [22/Oct/2025 11:46:00] "GET /static/images/coingecko.svg HTTP/1.1" 200 -
+2025-10-22 11:46:00 - INFO - 172.20.10.1 - - [22/Oct/2025 11:46:00] "GET /static/images/coinmarketcap.svg HTTP/1.1" 200 -
+2025-10-22 11:46:00 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.1
+2025-10-22 11:46:00 - INFO - 172.20.10.1 - - [22/Oct/2025 11:46:00] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 11:46:00 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.1
+2025-10-22 11:46:00 - INFO - 172.20.10.1 - - [22/Oct/2025 11:46:00] "GET /static/images/folius.webp HTTP/1.1" 200 -
+2025-10-22 11:46:00 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.1
+2025-10-22 11:46:00 - INFO - 172.20.10.1 - - [22/Oct/2025 11:46:00] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:06:27 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 12:06:27 - INFO -  * Restarting with stat
+2025-10-22 12:06:27 - WARNING -  * Debugger is active!
+2025-10-22 12:06:27 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 12:06:37 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 12:06:37 - INFO -  * Restarting with stat
+2025-10-22 12:06:37 - WARNING -  * Debugger is active!
+2025-10-22 12:06:37 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 12:06:42 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "GET / HTTP/1.1" 200 -
+2025-10-22 12:06:42 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:06:42 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:06:42 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:42] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:06:43 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:06:43 - INFO - 172.20.10.2 - - [22/Oct/2025 12:06:43] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "GET / HTTP/1.1" 200 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:07:20 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:07:20 - INFO - 172.20.10.2 - - [22/Oct/2025 12:07:20] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:08:26 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 12:08:26 - INFO -  * Restarting with stat
+2025-10-22 12:08:38 - WARNING -  * Debugger is active!
+2025-10-22 12:08:38 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 12:08:38 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "GET / HTTP/1.1" 200 -
+2025-10-22 12:08:38 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:08:38 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:08:38 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:38] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 12:08:39 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:08:39 - INFO - 172.20.10.2 - - [22/Oct/2025 12:08:39] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "GET / HTTP/1.1" 200 -
+2025-10-22 12:10:49 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:10:49 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:49] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:10:50 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:10:50 - INFO - 172.20.10.2 - - [22/Oct/2025 12:10:50] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:11:57 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:11:57 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:57] "GET / HTTP/1.1" 200 -
+2025-10-22 12:11:58 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:11:58 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:11:58 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:58] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:11:59 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:11:59 - INFO - 172.20.10.2 - - [22/Oct/2025 12:11:59] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "GET / HTTP/1.1" 200 -
+2025-10-22 12:12:18 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:12:18 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:12:18 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:18] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:12:19 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:12:19 - INFO - 172.20.10.2 - - [22/Oct/2025 12:12:19] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:13:01 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 12:13:01 - INFO -  * Restarting with stat
+2025-10-22 12:13:01 - WARNING -  * Debugger is active!
+2025-10-22 12:13:01 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 12:13:03 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "GET / HTTP/1.1" 200 -
+2025-10-22 12:13:03 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:13:03 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:03] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 12:13:04 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 12:13:04 - INFO - 172.20.10.2 - - [22/Oct/2025 12:13:04] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:55:08 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://172.26.20.57:3001
+2025-10-22 12:55:08 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-22 12:55:08 - INFO -  * Restarting with watchdog (fsevents)
+2025-10-22 12:55:08 - WARNING -  * Debugger is active!
+2025-10-22 12:55:08 - INFO -  * Debugger PIN: 868-960-798
+2025-10-22 12:55:16 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET / HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/images/bybit.png HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/css/home.css HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/images/binance.png HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/images/coingecko.svg HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/images/coinmarketcap.svg HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/images/folius.webp HTTP/1.1" 200 -
+2025-10-22 12:55:16 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 12:55:16 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:16] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:55:19 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 12:55:19 - INFO - 172.26.20.57 - - [22/Oct/2025 12:55:19] "GET /static/images/icofile.png HTTP/1.1" 200 -
+2025-10-22 12:57:59 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=10400, id=18988749): is_file, is_inode_meta_mod
+2025-10-22 12:57:59 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:57:59 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=11400, id=18988752): is_file, is_inode_meta_mod, is_modified
+2025-10-22 12:57:59 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:57:59 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=410000, id=18988780): is_cloned, is_file
+2025-10-22 12:58:19 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html", inode=16994133, flags=11400, id=18991291): is_file, is_inode_meta_mod, is_modified
+2025-10-22 12:58:19 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:58:19 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html", inode=16994133, flags=410000, id=18991333): is_cloned, is_file
+2025-10-22 12:58:32 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "GET / HTTP/1.1" 200 -
+2025-10-22 12:58:32 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:58:32 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:58:32 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:58:32 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:58:32 - INFO - 172.26.20.57 - - [22/Oct/2025 12:58:32] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:59:07 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html", inode=16994133, flags=11400, id=18995724): is_file, is_inode_meta_mod, is_modified
+2025-10-22 12:59:07 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:59:10 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 12:59:10 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:10] "GET / HTTP/1.1" 200 -
+2025-10-22 12:59:10 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 12:59:10 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:10] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:59:11 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:11] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 12:59:12 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 12:59:12 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:12] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 12:59:36 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=10400, id=18997002): is_file, is_inode_meta_mod
+2025-10-22 12:59:36 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:59:36 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=11400, id=18997005): is_file, is_inode_meta_mod, is_modified
+2025-10-22 12:59:36 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 12:59:38 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "GET / HTTP/1.1" 200 -
+2025-10-22 12:59:38 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 12:59:38 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 12:59:38 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 12:59:38 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 12:59:38 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 12:59:38 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:38] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 12:59:39 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 12:59:39 - INFO - 172.26.20.57 - - [22/Oct/2025 12:59:39] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 13:00:05 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=11400, id=19000134): is_file, is_inode_meta_mod, is_modified
+2025-10-22 13:00:05 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 13:00:08 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "GET / HTTP/1.1" 200 -
+2025-10-22 13:00:08 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 13:00:08 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 13:00:08 - INFO - 172.26.20.57 - - [22/Oct/2025 13:00:08] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 13:00:16 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/static/js/home.js", inode=16995306, flags=410000, id=19004172): is_cloned, is_file
+2025-10-22 13:00:16 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/templates/home.html", inode=16994133, flags=410000, id=19004190): is_cloned, is_file
+2025-10-22 13:16:09 - DEBUG - NativeEvent(path="/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py", inode=16992726, flags=11400, id=19086169): is_file, is_inode_meta_mod, is_modified
+2025-10-22 13:16:09 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-10-22 13:16:09 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 13:16:09 - INFO -  * Restarting with watchdog (fsevents)
+2025-10-22 13:19:08 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://172.26.20.57:3001
+2025-10-22 13:19:08 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-22 13:19:08 - INFO -  * Restarting with stat
+2025-10-22 13:19:08 - WARNING -  * Debugger is active!
+2025-10-22 13:19:08 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 13:19:16 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "GET / HTTP/1.1" 200 -
+2025-10-22 13:19:16 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 13:19:16 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 13:19:16 - INFO - 172.26.20.57 - - [22/Oct/2025 13:19:16] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 13:24:33 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "GET / HTTP/1.1" 200 -
+2025-10-22 13:24:33 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 13:24:33 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:33] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 13:24:35 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 13:24:35 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:35] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - Request: GET / - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "GET / HTTP/1.1" 200 -
+2025-10-22 13:24:51 - INFO - Request: GET /static/css/home.css - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - Request: GET /static/images/binance.png - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - Request: GET /static/images/bybit.png - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - Request: GET /static/images/folius.webp - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - Request: GET /static/js/home.js - IP: 172.26.20.57
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 13:24:51 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:51] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 13:24:53 - INFO - Request: GET /static/images/icofile.png - IP: 172.26.20.57
+2025-10-22 13:24:53 - INFO - 172.26.20.57 - - [22/Oct/2025 13:24:53] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 18:32:45 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://172.20.10.2:3001
+2025-10-22 18:32:45 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-22 18:32:45 - INFO -  * Restarting with stat
+2025-10-22 18:32:46 - WARNING -  * Debugger is active!
+2025-10-22 18:32:46 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:33:02 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:33:02 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:02] "GET / HTTP/1.1" 200 -
+2025-10-22 18:33:02 - INFO - Request: GET /favicon.ico - IP: 172.20.10.2
+2025-10-22 18:33:02 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-22 18:33:04 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:33:04 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:04] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:33:44 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 18:33:44 - INFO -  * Restarting with stat
+2025-10-22 18:33:45 - WARNING -  * Debugger is active!
+2025-10-22 18:33:45 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:33:56 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:33:56 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:56] "GET / HTTP/1.1" 200 -
+2025-10-22 18:33:57 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:33:57 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:57] "GET / HTTP/1.1" 200 -
+2025-10-22 18:33:59 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:33:59 - INFO - 172.20.10.2 - - [22/Oct/2025 18:33:59] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:34:56 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:34:56 - INFO - 172.20.10.2 - - [22/Oct/2025 18:34:56] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:35:19 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:35:19 - INFO - 172.20.10.2 - - [22/Oct/2025 18:35:19] "GET / HTTP/1.1" 200 -
+2025-10-22 18:35:20 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:35:20 - INFO - 172.20.10.2 - - [22/Oct/2025 18:35:20] "GET / HTTP/1.1" 200 -
+2025-10-22 18:35:22 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:35:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:35:22] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:45:14 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 18:45:15 - INFO -  * Restarting with stat
+2025-10-22 18:45:15 - WARNING -  * Debugger is active!
+2025-10-22 18:45:15 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:45:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://172.20.10.2:3001
+2025-10-22 18:45:24 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-22 18:45:24 - INFO -  * Restarting with stat
+2025-10-22 18:45:24 - WARNING -  * Debugger is active!
+2025-10-22 18:45:24 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:45:35 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:45:35 - INFO - 172.20.10.2 - - [22/Oct/2025 18:45:35] "GET / HTTP/1.1" 200 -
+2025-10-22 18:45:40 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:45:40 - INFO - 172.20.10.2 - - [22/Oct/2025 18:45:40] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:45:48 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:45:48 - INFO - 172.20.10.2 - - [22/Oct/2025 18:45:48] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:45:54 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:45:54 - INFO - 172.20.10.2 - - [22/Oct/2025 18:45:54] "GET / HTTP/1.1" 200 -
+2025-10-22 18:46:05 - INFO - Request: POST /api/generate-wc-uri - IP: 172.20.10.2
+2025-10-22 18:46:05 - INFO - 172.20.10.2 - - [22/Oct/2025 18:46:05] "POST /api/generate-wc-uri HTTP/1.1" 200 -
+2025-10-22 18:46:38 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 18:46:38 - INFO -  * Restarting with stat
+2025-10-22 18:46:39 - WARNING -  * Debugger is active!
+2025-10-22 18:46:39 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:46:49 - INFO -  * Detected change in '/Users/mbonuchinedu/Documents/Projects/tradingApp/Home/homeRoute.py', reloading
+2025-10-22 18:46:49 - INFO -  * Restarting with stat
+2025-10-22 18:46:49 - WARNING -  * Debugger is active!
+2025-10-22 18:46:49 - INFO -  * Debugger PIN: 727-636-671
+2025-10-22 18:47:29 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:47:29 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:29] "GET / HTTP/1.1" 200 -
+2025-10-22 18:47:29 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:47:29 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:29] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 18:47:30 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 18:47:30 - INFO - 172.20.10.2 - - [22/Oct/2025 18:47:30] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "GET / HTTP/1.1" 200 -
+2025-10-22 18:51:42 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 18:51:42 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:42] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 18:51:45 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 18:51:45 - INFO - 172.20.10.2 - - [22/Oct/2025 18:51:45] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 18:52:10 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:52:10 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:10] "GET / HTTP/1.1" 200 -
+2025-10-22 18:52:10 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:52:10 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:10] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:52:10 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 18:52:10 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 18:52:10 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:10] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 18:52:10 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:10] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 18:52:11 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 18:52:11 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 18:52:11 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:11] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:52:11 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:11] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:52:11 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 18:52:11 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 18:52:11 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:11] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 18:52:11 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:11] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 18:52:11 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 18:52:11 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:11] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 18:52:18 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:52:18 - INFO - 172.20.10.2 - - [22/Oct/2025 18:52:18] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:54:22 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:54:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:54:22] "GET / HTTP/1.1" 200 -
+2025-10-22 18:55:22 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "GET / HTTP/1.1" 200 -
+2025-10-22 18:55:22 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 18:55:22 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 18:55:22 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:22] "[36mGET /static/js/home.js HTTP/1.1[0m" 304 -
+2025-10-22 18:55:29 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 18:55:29 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:29] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - Request: GET / - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "GET / HTTP/1.1" 200 -
+2025-10-22 18:55:55 - INFO - Request: GET /static/css/home.css - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/css/home.css HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - Request: GET /static/images/binance.png - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - Request: GET /static/images/bybit.png - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/images/binance.png HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/images/bybit.png HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - Request: GET /static/images/coingecko.svg - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/images/coingecko.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - Request: GET /static/images/coinmarketcap.svg - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/images/coinmarketcap.svg HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - Request: GET /static/images/folius.webp - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - Request: GET /static/js/home.js - IP: 172.20.10.2
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "[36mGET /static/images/folius.webp HTTP/1.1[0m" 304 -
+2025-10-22 18:55:55 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:55] "GET /static/js/home.js HTTP/1.1" 200 -
+2025-10-22 18:55:56 - INFO - Request: GET /static/images/icofile.png - IP: 172.20.10.2
+2025-10-22 18:55:56 - INFO - 172.20.10.2 - - [22/Oct/2025 18:55:56] "[36mGET /static/images/icofile.png HTTP/1.1[0m" 304 -
