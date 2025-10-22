@@ -22,7 +22,7 @@ app.secret_key = os.getenv("SECRET_KEY")
 app.permanent_session_lifetime = timedelta(days=10)
 
 # Enable CORS configuration 
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app)
 
 # Set up the path to the logs directory and file
 logsDir = os.path.join("Logs")
@@ -97,4 +97,4 @@ app.register_blueprint(home, url_prefix="/")
 
 # Running the flask server 
 if __name__ == "__main__": 
-    app.run(port=3001, host="localhost", debug=True)
+    app.run(port=3001, host="172.20.10.2", debug=True)
